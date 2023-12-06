@@ -13,7 +13,7 @@ def guess_the_number():
 
         # Vérifier si le guess est correct
         if user_guess == secret_number:
-            print("Félicitations ! Vous avez deviné le bon nombre.")
+            print("Félicitations ! Tu as deviné le bon nombre.")
             break
         else:
             print("Désolé, ce n'est pas le bon nombre. Essayez à nouveau.")
