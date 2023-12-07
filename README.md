@@ -1,2 +1,2 @@
 # jeu
-Mini jeu
+Mini jeu.
