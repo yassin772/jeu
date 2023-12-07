@@ -5,7 +5,7 @@ def guess_the_number():
     secret_number = random.randint(1, 10)
     
     print("Bienvenue dans le jeu Guess the Number!")
-    print("Devinez le nombre entre 1 et 10.")
+    print("Devinez le nombre entre 0 et 10.")
 
     while True:
         # Demander à l'utilisateur de deviner le nombre
